@@ -6,7 +6,8 @@ namespace GamingProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int cash = 100;
+            int bet = 1;
         }
     }
 }
